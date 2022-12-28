@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 ### 🌱 Contribution Graph
-[![Minsng's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Minsng&theme=onedark&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Minsng's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Minsng&theme=react&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 [![Minsng's github activity graph](https://activity-graph.herokuapp.com/graph?username=Minsng&theme=onedark&radius=16)](https://github.com/Minsng/github-readme-activity-graph)
